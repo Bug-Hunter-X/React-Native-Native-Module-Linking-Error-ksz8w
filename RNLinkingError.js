@@ -1,0 +1,1 @@
+This error occurs when using a third-party library that uses native modules and the native module is not properly linked or configured within your React Native project.  This can be particularly tricky with iOS, where linking issues are more common and can be obscured by other errors.
